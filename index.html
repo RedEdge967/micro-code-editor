@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Micro Code Editor in the Browser!</title>
+  <!-- add icon link -->
+  <link rel = "icon" href="favicon.png"
+  type = "png">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<main class="view">
+	<h1 class="title">
+		Micro Code Editor
+		<small>With syntax highlight*</small>
+	</h1>
+
+	<div class="window">
+		<div class="window-header">
+			<div class="action-buttons"></div>
+			<select class="language">
+				<option value="javascript" selected>JavaScript</option>
+				<option value="markup">HTML</option>
+				<option value="php">PHP</option>
+			</select>
+		</div>
+		<div class="window-body">
+			<textarea class="code-input">// Switch the language and put some code on me :)           ↑↑↑↑↑↑
+// This is a 'Hello World' example.
+
+function greetings(name){
+    name = name || "stranger";
+    return "Hello, " + name + "!";
+}
+
+window.onLoad = alert(greetings());</textarea>
+			<pre class="code-output">
+				<code class="language-javascript">
+					
+				</code>
+			</pre>
+		</div>
+	</div>
+	<div class="credits">
+		*Made By <a href="https://github.com/RedEdge967">Chandula Janith </a>With <a href="https://www.codepen.io/">Codepen</a>
+	</div>
+</main>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/prism/0.0.1/prism.min.js'></script><script  src="./script.js"></script>
+
+</body>
+</html>

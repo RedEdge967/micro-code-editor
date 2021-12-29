@@ -1,7 +1,14 @@
 # micro-code-editor
 - Micro Code editor is A Syntax highlighter that can run online or offline.
+<p align="center">
+  <img src="favicon.png" height="30%" width="30%">
+</p>
+
 ---
 ### 🔗 Link: https://rededge967.github.io/micro-code-editor
+---
+## Preview
+![Capture60](https://user-images.githubusercontent.com/91379432/147645646-e60b70b4-86af-498f-b141-ffa5ccd6ce8e.PNG)
 ---
 ## Running `Micro Code Editor`
 ### Running `online`

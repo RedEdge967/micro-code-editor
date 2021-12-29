@@ -27,4 +27,4 @@
 --- | --- | --- | --- | --- |
 Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ |
 ---
-> ### If you found this FOSS as a useful software, don't forget to give a star and fork to make a upgraded version of Keyboard hero with adding your own features.
+> ### If you found this FOSS as a useful software, don't forget to give a star and fork to make a upgraded version of Micro code editor with adding your own features.

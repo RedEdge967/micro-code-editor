@@ -1,5 +1,6 @@
 # micro-code-editor
-- Micro Code editor is A Syntax highlighter that can run online or offline.
+- Micro Code editor is A Syntax highlighter that can run `online or offline.`
+- This code editor can highlight the syntax of `JavaScript, HTML5 and PHP.`
 <p align="center">
   <img src="favicon.png" height="30%" width="30%">
 </p>

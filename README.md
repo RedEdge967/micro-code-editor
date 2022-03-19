@@ -42,6 +42,4 @@ git@github.com:RedEdge967/micro-code-editor.git
 gh repo clone RedEdge967/micro-code-editor
 ```
 ---
-### Credits
-Note this is just a updated and improved versionof [Claudio Holanda's Micro editor](https://codepen.io/kazzkiq/pen/xGXaKR)
 > ### If you found this FOSS as a useful software, don't forget to give a star and fork to make a upgraded version of Micro code editor with adding your own features.
